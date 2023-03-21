@@ -75,7 +75,7 @@
     <string name="deleteAreYouSure">Etes-vous sûr de vouloir supprimer cette donnée?\nCette opération ne pourra être annulée!\n</string>
     <string name="deleteAreYouSureAttribute">Etes-vous sûr de vouloir supprimer ce jeu d\'attributs et les valeurs sous-jacentes?\nLes données collectées jusqu\'ici dans ce projet seront affectées!\n</string>
     <string name="txt_import_no_files">Pour importer des données depuis des fichiers, copiez-les dans \n\nDevice Memory->Mapit-Spatial->Import.</string>
-    <string name="txt_imported_info">{0} ont été importées dans la couche{1}</string>
+    <string name="txt_imported_info">{0} ont été importées dans la couche {1}</string>
     <string name="txt_loading_info">Rafraichissement de la carte en cours, patientez&#8230;</string>
     <string name="txt_use_overlay">Utiliser cet overlay</string>
     <string name="txt_dialog_pref">Fenêtre d\'avertissement</string>
@@ -366,7 +366,7 @@
     <string name="content_desc1">Nouvelles fonctionnalités</string>
     <string name="like_us">Like</string>
     <string name="txt_rate">Si vous utilisez {0}, merci de laisser votre avis. \nVos retours nous aident à améliorer les fonctionnalités et en implémenter de nouvelles pour répondre à vos besoins. \n\nMerci de votre support!</string>
-    <string name="generic_confirm_title">Etes-vous sûr?</string>
+    <string name="generic_confirm_title">Etes-vous sûr ?</string>
     <string name="pm_list_empty2">Pour ajouter un ou plusieurs champs presser \'Ajouter\'.</string>
     <string name="txt_edit">Editer</string>
     <string name="txt_delete">Supprimer</string>
@@ -697,7 +697,7 @@
     <string name="useTrimbleMMConnectTitle">Trimble Mobile Manager</string>
     <string name="useTrimbleMMConnectSum">Transmettre à Mapit la localisation fournie par l\'application TMM et votre antenne Trimble, par exemple Trimble Catalyst</string>
 
-    <string name="geoImagesEmpty">Copiez vos images Raster dans\nSD Card->MapIt->OfflineMaps folder.\nAssurez-vous que le fichier world décrivant les limites de l\'image est bien placé dans le même répertoire et avec le même nom que l\'image.\n\nVisitez <a href="https://mapitgis.com/offline-maps-mapbox-extension">Offline Maps &amp; Mapbox extension</a> pour de plsu amples informations.</string>
+    <string name="geoImagesEmpty">Copiez vos images Raster dans\nSD Card->MapIt->OfflineMaps folder.\nAssurez-vous que le fichier world décrivant les limites de l\'image est bien placé dans le même répertoire et avec le même nom que l\'image.\n\nVisitez <a href="https://mapitgis.com/offline-maps-mapbox-extension">Offline Maps &amp; Mapbox extension</a> pour de plus amples informations.</string>
     <string name="txtRequired">Ce champ est obligatoire.</string>
     <string name="txtMultiselect">Ce champ autorise une sélection multiple.</string>
     <string name="txtUnableToSave">Impossible de sauvegarder. Il y a des champs obligatoires vides dans le formulaire:\n\n</string>
@@ -887,8 +887,8 @@
     <string name="txt_TianDiTuKeySub">Fournir votre propre clé d\'acès au fond de carte Tianditu</string>
 
     <string name="new_layer_sr">Nouvelle couche de référence spatiale</string>
-    <string name="new_layer_srSum">Activer pour définir cette référence spatiale par défaut quand vous créez une nouvelle couhe.</string>
-    <string name="gdriveRemove">Revoquer l\'accès Google Drive</string>
+    <string name="new_layer_srSum">Activer pour définir cette référence spatiale par défaut quand vous créez une nouvelle couche.</string>
+    <string name="gdriveRemove">Révoquer l\'accès Google Drive</string>
     <string name="gdriveRemoveSettings">Cliquez pour révoquer l\'accès à Google Drive.</string>
     <string name="gdriveRemoveAlert">Voulez-vous effacer les paramètres actuels d\'accès à Google Drive ?</string>
     <string name="gdriveDownloadProblem">Un problème est survenu durant le téléchargement du fichier depuis Google Drive.</string>
